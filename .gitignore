@@ -1,0 +1,6 @@
+# Remove os módulos do repositório, não necessitando manter eles salvos lá.
+# Após clonar o repositório, é apenas necessário executar o comando "npm install"
+# no diretório do projeto, assim o gerenciador de pacotes do node buscará os módulos
+# requisitados no arquivo package.json
+/node_modules
+npm-debug.log
