@@ -11,6 +11,9 @@ Para usuários Windows:
 8) Mude a variável port do arquivo server.js para a constante 3000
 9) Use o comando node server.js
 10) Acesse o website em localhost:3000
+11) Lembre-se de usar o framework semantic, documentado em http://semantic-ui.com/. Para isso, adicione ao seu arquivo html o css e o javascript deles:
+<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+<script src="semantic/dist/semantic.min.js"></script>
 
 Para usuários Ubuntu:
 1) Instale GIT Kranken (plataforma com recursos gráficos para git) -> https://www.gitkraken.com/
@@ -39,6 +42,9 @@ sudo service mongod start
 8) Mude a variável port do arquivo server.js para a constante 3000
 9) Use o comando node server.js
 10) Acesse o website em localhost:3000
+11) Lembre-se de usar o framework semantic, documentado em http://semantic-ui.com/. Para isso, adicione ao seu arquivo html o css e o javascript deles:
+<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+<script src="semantic/dist/semantic.min.js"></script>
 
 Opcional:
 1) Use o editor de texto Atom -> https://atom.io/
